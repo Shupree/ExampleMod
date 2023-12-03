@@ -3,9 +3,9 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace ExampleModNS
+namespace FairyTownModNS
 {
-    public class ExampleMod : Mod
+    public class FairyTownMod : Mod
     {
         public override void Ready()
         {
